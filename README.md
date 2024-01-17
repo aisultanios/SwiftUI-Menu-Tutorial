@@ -8,5 +8,4 @@
 
 ### End result - Menu with action buttons and drop down.
 
-![ezgif com-video-to-gif-5](https://user-images.githubusercontent.com/36818367/227378702-e72c8008-a965-4199-9ca0-d7457404304a.gif)
-
+![eheth-ezgif com-video-to-gif-converter](https://github.com/AisultanAskarov/SwiftUI-Menu-Tutorial/assets/36818367/140d9349-9df1-4267-8dfa-35e453892fee)
