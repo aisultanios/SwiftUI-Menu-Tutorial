@@ -9,5 +9,5 @@
 ### End result - Menu with action buttons and drop down.
 
 <p align="center">
-<img src=[https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/c1322976-67df-41c0-b8ae-ea72fb8a50ff](https://github.com/AisultanAskarov/SwiftUI-Menu-Tutorial/assets/36818367/140d9349-9df1-4267-8dfa-35e453892fee)>
+<img src=https://github.com/AisultanAskarov/SwiftUI-Menu-Tutorial/assets/36818367/140d9349-9df1-4267-8dfa-35e453892fee>
 </p>
